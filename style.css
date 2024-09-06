@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    forced-color-adjust: blue;
+    color: blue;
+    color-scheme: blue;
+
+
+}
+
+h1 {
+    padding-top: 4em;
+    color: purple;
+}
+
+p {
+    margin: 2em 0;
+    color: purple;
+}
+
+img {
+    width: 40em;
+    max-width: 90%;
+}
